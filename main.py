@@ -9,6 +9,7 @@ def main():
     print("Hello World! b.2")
     print("Hello World! 5")
     print("Hello World! 6")
+    print("Hello World! b.3")
     print("Hello World! b.1")
     print("Hello World! 7")
     print("Hello World! 8")
